@@ -63,29 +63,12 @@
         "type": "indirect"
       }
     },
-    "node_dep": {
-      "locked": {
-        "lastModified": 1696009558,
-        "narHash": "sha256-/1nNL8lCF0gn38XaFyu2ufpWcBFwCDZyYUxdZkM6GxU=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "c182df2e68bd97deb32c7e4765adfbbbcaf75b60",
-        "type": "github"
-      },
-      "original": {
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "c182df2e68bd97deb32c7e4765adfbbbcaf75b60",
-        "type": "github"
-      }
-    },
     "root": {
       "inputs": {
         "flake-utils": "flake-utils",
         "golang_dep": "golang_dep",
         "goreleaser_dep": "goreleaser_dep",
-        "nixpkgs": "nixpkgs",
-        "node_dep": "node_dep"
+        "nixpkgs": "nixpkgs"
       }
     },
     "systems": {
