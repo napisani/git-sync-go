@@ -1,4 +1,4 @@
-module github.com/napisani/nvim-dadbod-bg
+module github.com/napisani/git-sync-go
 
 go 1.22
 

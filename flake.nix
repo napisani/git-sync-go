@@ -1,6 +1,6 @@
 
 {
-  description = "a flake for the dadbod beer goggles shell";
+  description = "a flake for git-sync";
   inputs = {
     # golang 1.22
     golang_dep.url = "github:NixOS/nixpkgs/10b813040df67c4039086db0f6eaf65c536886c6";
